@@ -1,4 +1,3 @@
-# About Me:
 Computer Science, Cognitive Science, & Data Science student at Rice University
 
 # Tech Stack:
